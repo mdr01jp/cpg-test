@@ -189,7 +189,7 @@ GUIText:
   m_GameObject: {fileID: 766329068}
   m_Enabled: 1
   serializedVersion: 3
-  m_Text: Project Tuna!
+  m_Text: Project Tuna!!
   m_Anchor: 1
   m_Alignment: 0
   m_PixelOffset: {x: 0, y: 0}
